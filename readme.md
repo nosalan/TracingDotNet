@@ -6,3 +6,4 @@ Observe how trace id and parent id propagate
 The projects are also integrated with new relic, in order for integration to work edit the launchSettings.json files
 and provide path to CORECLR_PROFILER_PATH and CORECLR_NEWRELIC_HOME
 It may be improved to remove the absolute paths
+Provide also value for NEW_RELIC_LICENSE_KEY
