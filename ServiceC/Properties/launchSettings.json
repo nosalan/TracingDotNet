@@ -1,0 +1,24 @@
+﻿{
+  "profiles": {
+    "ServiceC": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5003",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CORECLR_ENABLE_PROFILING": "1",
+        "CORECLR_PROFILER": "{36032161-FFC0-4B61-B559-F6C5D41BAE5A}",
+        "NEW_RELIC_APPLICATION_LOGGING_ENABLED" :  "true",
+        "NEW_RELIC_APPLICATION_LOGGING_LOCAL_DECORATING_ENABLED" :  "true",
+        "CORECLR_PROFILER_PATH": "C:\\Users\\AndrzejNosal\\.nuget\\packages\\newrelic.agent\\9.9.0\\contentFiles\\any\\netstandard2.0\\newrelic\\NewRelic.Profiler.dll",
+        "NEW_RELIC_APPLICATION_LOGGING_METRICS_ENABLED": "true",
+        "CORECLR_NEWRELIC_HOME": "C:\\Users\\AndrzejNosal\\.nuget\\packages\\newrelic.agent\\9.9.0\\contentFiles\\any\\netstandard2.0\\newrelic",
+        "NEW_RELIC_APPLICATION_LOGGING_FORWARDING_ENABLED": "false",
+        "NEW_RELIC_LICENSE_KEY" : "",
+        "NEW_RELIC_APP_NAME":"ServiceCCCC"
+      }
+    }
+  }
+}
